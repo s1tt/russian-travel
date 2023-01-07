@@ -1,0 +1,9 @@
+.place__paragraph-container {
+  grid-area: 2 / 2 / 3 / 3;
+}
+
+@media screen and (max-width: 568px) {
+  .place__paragraph-container {
+    grid-area: 4 / 1 / 5 / 2;
+  }
+}

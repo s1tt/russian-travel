@@ -1,0 +1,5 @@
+.header__link_active {
+  text-decoration: underline;
+  cursor: default;
+  pointer-events: none;
+}

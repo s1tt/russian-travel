@@ -1,0 +1,23 @@
+.content__section-intro {
+  max-width: 690px;
+  padding-left: 148px;
+}
+
+@media screen and (max-width: 1140px) {
+  .content__section-intro {
+    padding-left: 48px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .content__section-intro {
+    max-width: 720px;
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .content__section-intro {
+    padding: 0 16px;
+  }
+}
