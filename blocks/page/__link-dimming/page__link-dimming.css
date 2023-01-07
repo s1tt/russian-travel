@@ -1,0 +1,7 @@
+.page__link-dimming {
+  transition: 0.3s;
+}
+
+.page__link-dimming:hover {
+  opacity: 0.3;
+}

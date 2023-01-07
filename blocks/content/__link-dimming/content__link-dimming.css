@@ -1,7 +1,0 @@
-.content__link-dimming {
-  transition: 0.3s;
-}
-
-.content__link-dimming:hover {
-  opacity: 0.3;
-}

@@ -6,6 +6,7 @@
 @import url('../blocks/page/__header/page__header.css');
 @import url('../blocks/page/__content/page__content.css');
 @import url('../blocks/page/__footer/page__footer.css');
+@import url('../blocks/page/__link-dimming/page__link-dimming.css');
 
 @import url('../blocks/content/content.css');
 @import url('../blocks/content/__section-cover/content__section-cover.css');
@@ -13,7 +14,6 @@
 @import url('../blocks/content/__section-lead/content__section-lead.css');
 @import url('../blocks/content/__section-photo-grid/content__section-photo-grid.css');
 @import url('../blocks/content/__section-places/content__section-places.css');
-@import url('../blocks/content/__link-dimming/content__link-dimming.css');
 
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__logo/header__logo.css');
