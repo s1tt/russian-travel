@@ -1,5 +1,7 @@
 ## Проект: Путешествие по России
 
+https://s1tt.github.io/russian-travel/
+
 ### 👨🏽‍💻 Author: Sergei Alekseev
 
 # Описание:
