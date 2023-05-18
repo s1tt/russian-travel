@@ -14,7 +14,3 @@ https://s1tt.github.io/russian-travel/
 > 3.  `Flex`
 > 4.  `Grid`
 > 5.  `Адаптив`
-
-# Доделать:
-
->
